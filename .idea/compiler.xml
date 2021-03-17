@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="untitled" />
+        <module name="springmvc01" />
+        <module name="springmvc02" />
+        <module name="springmvc10" />
+        <module name="springmvc11" />
+        <module name="springmvc05" />
+        <module name="springmvc07-ssm" />
+        <module name="springmvc03" />
+        <module name="springmvc04" />
+        <module name="01-shiro-boot" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-shiro-boot" target="1.8" />
+      <module name="springmvc01" target="1.8" />
+      <module name="springmvc02" target="1.8" />
+      <module name="springmvc03" target="1.8" />
+      <module name="springmvc04" target="1.8" />
+      <module name="springmvc05" target="1.8" />
+      <module name="springmvc07-ssm" target="1.8" />
+      <module name="springmvc10" target="1.8" />
+      <module name="springmvc11" target="1.8" />
+      <module name="untitled" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
